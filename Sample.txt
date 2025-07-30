@@ -1,0 +1,8 @@
+    "The Eiffel Tower is located in Paris and was completed in 1889.\n"
+    "It was designed by Gustave Eiffel and is 300 meters tall.\n"
+    "Today, it is one of the most visited monuments in the world.\n"
+    "The tower has three levels accessible to visitors.\n"
+    "Originally, it was criticized by some of France's leading artists and intellectuals.\n"
+    "Now, it's a global cultural icon of France and one of the most recognizable structures in the world.\n"
+    "It was built for the 1889 Exposition Universelle (World's Fair) to celebrate the 100th anniversary of the French Revolution.\n"
+    "The tower is made of wrought iron and weighs about 10,000 tons.\n"
